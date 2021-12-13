@@ -19,18 +19,18 @@ We will take the data from Kaggle , and we plan to usse these classes and featur
 | Field Name | Description                                                                                      |
 |-----------------------------|---------------------------------------------------------------------------------|
 | RowNumber                   | Corresponds to the record (row) number                                          | 
-| CustomerId                  | Customers ID's                                                          |    
+| CustomerId                  | Customers ID's                                                                  |    
 | Surname                     | Surname of a customer                                                           |
-| CreditScore                 | a number between 300–850 that depicts a consumer's creditworthiness                                                          |
+| CreditScore                 | Number between 300–850 that depicts a consumer's credit worthiness              |
 | Geography                   | Customer’s location                                                             |
 | Gender                      | Male/Female                                                                     |
 | Age                         | Customer Age                                                                    |
-| Tenure                      | Refers to the number of years that the customer has been a client of the bank                                                                                |
-| Balance                     | Customer's account balance                                           |
-| NumOfProducts               | Refers to the number of products that a customer has purchased through the bank.                                           |
-| HasCrCard                   | Denotes whether or not a customer has a credit card.                                           |
-| IsActiveMember              | If the customer is active or not.                                           |
-| EstimatedSalary             | Customer's salary.                                           |
+| Tenure                      | Refers to the number of years that the customer has been a client of the bank   |
+| Balance                     | Customer's account balance                                                      |
+| NumOfProducts               | Refers to the number of products that a customer has purchased through the bank.|
+| HasCrCard                   | Denotes whether or not a customer has a credit card.                            |
+| IsActiveMember              | If the customer is active or not.                                               |
+| EstimatedSalary             | Customer's salary.                                                              |
 
 
 
