@@ -1,38 +1,37 @@
 # Introduction
-In this work, .....
+In this work the purpose of the model our plan is to build a model that predicts an individual customer will churn form the bank (or not) given various data points and information form a historical data.
+
+The goal of this model is to help decision making framework for wether a customer will leave or not.
+
+Banks will be able to predict the risk of the customer on wether they will leave or not.
 
 
-
-# Question/Need:
-The benefits gained from this Exploratory Data Analysis which is:
-
-1-?
-
-2-?
-
-3-.
 
 
 # Data Description
-This data we will be using consists .....
-
+We will take the data from Kaggle , and we plan to usse these classes and features:
+ 
+ | class  |  Description |
+ | ------------- | ------------- |
+ | Exited  | Customer will leave |
+ | Not Exited | Customer will stay |
 
 | Field Name | Description                                                                                      |
 |-----------------------------|---------------------------------------------------------------------------------|
 | RowNumber                   | Corresponds to the record (row) number                                          | 
-| CustomerId                  | Contains random values                                                          |    
+| CustomerId                  | Customers ID's                                                          |    
 | Surname                     | Surname of a customer                                                           |
-| CreditScore                 | Type of lunch selected                                                          |
+| CreditScore                 | a number between 300–850 that depicts a consumer's creditworthiness                                                          |
 | Geography                   | Customer’s location                                                             |
 | Gender                      | Male/Female                                                                     |
 | Age                         | Customer Age                                                                    |
-| Tenure                      |                                                                                 |
-| Balance                     | Marks secured by a student in Writing                                           |
-| NumOfProducts               | Marks secured by a student in Writing                                           |
-| HasCrCard                   | Marks secured by a student in Writing                                           |
-| IsActiveMember              | Marks secured by a student in Writing                                           |
-| EstimatedSalary             | Marks secured by a student in Writing                                           |
-| Exited                      | Marks secured by a student in Writing                                           |  
+| Tenure                      | Refers to the number of years that the customer has been a client of the bank                                                                                |
+| Balance                     | Customer's account balance                                           |
+| NumOfProducts               | Refers to the number of products that a customer has purchased through the bank.                                           |
+| HasCrCard                   | Denotes whether or not a customer has a credit card.                                           |
+| IsActiveMember              | If the customer is active or not.                                           |
+| EstimatedSalary             | Customer's salary.                                           |
+
 
 
 
