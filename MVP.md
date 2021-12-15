@@ -4,9 +4,13 @@ The purpose of the classification is to understand the influence on the bank ust
 
 ### Figure 1
 ![correlation](https://user-images.githubusercontent.com/93079224/146169594-d7af72af-4501-48e2-b707-04cafbb5832a.png)
+##### features that has big correlation with exiting the bank
+> - Age (29%)
+> - Customers in Germany (17%)
+> - Female customers (11%)
 
 
-After we've done the baseline model using logistic regression with an accuracy of:
+After we've done the baseline model using logistic regression with an accuracy of:0.7869
 
 ### Figure 2
 
