@@ -18,8 +18,9 @@
 
 #### The score of our baseline was actually good with an accuracy of: 0.7869
 Logistic regression before oversampling training and validation set metrics: 
-  ####Training                           ####Validation
- Accuracy: 0.7869                        Accuracy: 0.7894 
- Precision: 0.3864                       Precision: 0.3757 
- Recall: 0.0520                          Recall: 0.0539
- F1: 0.0916                              F1: 0.0943
+ |       Training         |    Validation      |
+ |------------------------|--------------------|
+ |Accuracy: 0.7869        |Accuracy: 0.7894    |
+ |Precision: 0.3864       |Precision: 0.3757   |
+ |Recall: 0.0520          |Recall: 0.0539      |
+ |F1: 0.0916              |F1: 0.0943          |
