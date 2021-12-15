@@ -10,8 +10,10 @@
 > - Female customers (11%)
 
 
-##### The following figure is our baseline model using logistic regression.The score of our baseline was actually good with an accuracy of: 0.7869
+##### The following figure is our baseline model using logistic regression.
 
 ### Figure 2
 
 ![baseline](https://user-images.githubusercontent.com/93079224/146169511-250b9a02-5f0a-41fb-b48f-0ec0faf1e6d3.png)
+
+#### The score of our baseline was actually good with an accuracy of: 0.7869
