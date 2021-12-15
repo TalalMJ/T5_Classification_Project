@@ -1,12 +1,13 @@
 # Classification of Customers Churn (MVP)
 The purpose of the classification is to understand the influence on the bank ustomers who are closing their accounts (Churn).
 
-After we've done the baseline model using logistic regression with an accuracy of:
+
 ### Figure 1
-![Baseline]() 
+![correlation](https://user-images.githubusercontent.com/93079224/146169594-d7af72af-4501-48e2-b707-04cafbb5832a.png)
 
 
-Conclusion is that ... .
+After we've done the baseline model using logistic regression with an accuracy of:
 
 ### Figure 2
-![PNE]()
+
+![baseline](https://user-images.githubusercontent.com/93079224/146169511-250b9a02-5f0a-41fb-b48f-0ec0faf1e6d3.png)
