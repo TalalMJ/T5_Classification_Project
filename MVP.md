@@ -1,5 +1,5 @@
 # Classification of Customers Churn (MVP)
-## The purpose of the classification is to understand the influence of various factors on the bank customers who are closing their accounts (Churn).
+### The purpose of the classification is to understand the influence of various factors on the bank customers who are closing their accounts (Churn).
 
 
 ### Figure 1
