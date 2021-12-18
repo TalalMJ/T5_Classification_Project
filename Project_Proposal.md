@@ -1,9 +1,9 @@
 # Introduction
 In this work the purpose of the model our plan is to build a model that predicts an individual customer will churn form the bank (or not) given various data points and information form a historical data.
 
-The goal of this model is to help decision making framework for wether a customer will leave or not.
+The goal of this model is to help decision making framework for whether a customer will leave or not.
 
-Banks will be able to predict the risk of the customer on wether they will leave or not.
+Banks will be able to predict the risk of the customer on whether they will leave or not.
 
 
 
